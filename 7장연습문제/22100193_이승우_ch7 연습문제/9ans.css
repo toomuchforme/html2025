@@ -1,0 +1,16 @@
+caption{
+    caption-side: bottom;
+    text-align: right;
+}
+td, th, table{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.accent{
+    background-color: #b8f1f1;
+}
+.main{
+    font-weight: bold;
+    text-align: center;
+}
